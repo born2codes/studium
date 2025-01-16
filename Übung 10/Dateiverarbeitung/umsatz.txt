@@ -1,0 +1,7 @@
+ Anzahl | Artikel         | Umsatz
+--------+-----------------+--------
+      1 | Boss-Hemd       |  34,85
+      2 | GAP-Hemd        | 129,85
+      2 | Freizeithemd    |  59,89
+      3 | Levis-505       | 129,85
+      1 | Wrangler-001    |  89,90
